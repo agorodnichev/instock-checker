@@ -1,0 +1,7 @@
+node_modules
+log.txt
+.cache
+.env
+tmp/*
+**/[0-9]**/
+.DS_Store
